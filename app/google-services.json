@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "572029255333",
+    "project_id": "ouotesapp",
+    "storage_bucket": "ouotesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572029255333:android:7d7b4d8e3d4e821704174c",
+        "android_client_info": {
+          "package_name": "com.example.ouotesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi9NdlY-2bdUafHPRB6ahDaoK8pkPluzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
